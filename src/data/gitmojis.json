@@ -543,6 +543,14 @@
       "description": "Infrastructure related changes.",
       "name": "brick",
       "semver": null
+    },
+    {
+      "emoji": "🧴",
+      "entity": "&#x1f9f4;",
+      "code": ":lotion_bottle:",
+      "description": "Fix flakey test.",
+      "name": "lotion",
+      "semver": null
     }
   ]
 }
